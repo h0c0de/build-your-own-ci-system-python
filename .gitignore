@@ -1,0 +1,5 @@
+__pycache__/
+aset/
+test_results/
+.commit_id
+results
